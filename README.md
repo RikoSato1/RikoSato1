@@ -2,8 +2,8 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++
-- 😄 Pronouns: they/them/C++
+- 📫 How to reach me ____
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: i like C++
 
 <!---
